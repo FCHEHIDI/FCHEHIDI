@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FCHEHIDI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareschehidi7@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+33787864041)
-[![Location](https://img.shields.io/badge/Paris-France-FF6B6B?style=for-the-badge&logo=location&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/International-Remote-FF6B6B?style=for-the-badge&logo=location&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-005A9E?style=for-the-badge&logo=web&logoColor=white)](https://fares-chehidi.dev)
 
 **"Bridging analytical precision with AI innovation to revolutionize healthcare"**
