@@ -9,7 +9,7 @@
 [![Location](https://img.shields.io/badge/Paris-France-FF6B6B?style=for-the-badge&logo=location&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-005A9E?style=for-the-badge&logo=web&logoColor=white)](https://fares-chehidi.dev)
 
-**"Bridging French linguistic expertise with AI innovation to revolutionize healthcare"**
+**"Bridging analytical precision with AI innovation to revolutionize healthcare"**
 
 </div>
 
