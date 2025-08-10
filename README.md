@@ -22,7 +22,7 @@
 🎓 **Career Journey**: French Professor, Ministry of Education (2015-2019) → Administrative Director, Hôtel Donjon Vincennes (2020-2025)  
 🔬 **Current Mission**: Developing production-ready AI systems for medical diagnosis and healthcare optimization  
 🏥 **Core Expertise**: Medical imaging analysis, clinical NLP, diagnostic AI, and healthcare data science  
-🌍 **Impact**: Leveraging linguistic analysis expertise and leadership skills to create interpretable AI for healthcare
+🌍 **Impact**: Leveraging scientific analysis expertise and architectural skills to create interpretable AI for healthcare
 
 ---
 
