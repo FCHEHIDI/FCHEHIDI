@@ -167,13 +167,17 @@ De mes expériences précédentes, j'ai gardé la rigueur, la planification mét
 
 ---
 
-## 📈 GitHub Stats
+## ��� GitHub Stats
 
-![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=radical)
+![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FCHEHIDI&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FCHEHIDI&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
