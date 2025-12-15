@@ -1,287 +1,264 @@
-# 🧠 Fares Chehidi - Machine Learning Engineer | AI Engineer | Medical AI Specialist
+# 💻 Fares Chehidi | Backend Developer Python & ML Engineer
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-chehidi-87a578309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-chehidi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FCHEHIDI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareschehidi7@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+33787864041)
-[![Location](https://img.shields.io/badge/International-Remote-FF6B6B?style=for-the-badge&logo=location&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-005A9E?style=for-the-badge&logo=web&logoColor=white)](https://fares-chehidi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=About.me&logoColor=black)](https://fchehidi.github.io)
 
-**"Bridging analytical precision with AI innovation to revolutionize healthcare"**
-
-</div>
+> *"De la logique des prédicats aux circuits sémantiques : construire des systèmes qui ont du sens."*
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À Propos
 
-**Transforming healthcare through AI innovation.** I'm a Machine Learning Engineer with strong analytical foundations from linguistics and leadership experience. Currently applying AI/ML to solve real-world problems, particularly in medical AI and healthcare technology.
+Quand j'étais prof de français, je construisais déjà des programmes pédagogiques et j'adaptais mes contenus pour des profils d'élèves particuliers. Puis j'ai dirigé un hôtel pendant 5 ans, où la digitalisation totale et l'implémentation PCI DSS m'ont fait redécouvrir ma passion pour la programmation.
 
-🎓 **Career Journey**: French Professor, Ministry of Education (2015-2019) → Administrative Director, Hôtel Donjon Vincennes (2020-2025)  
-🔬 **Current Mission**: Developing production-ready AI systems for medical diagnosis and healthcare optimization  
-🏥 **Core Expertise**: Medical imaging analysis, clinical NLP, diagnostic AI, and healthcare data science  
-🌍 **Impact**: Leveraging scientific analysis expertise and architectural skills to create interpretable AI for healthcare
+**Le déclic** : comprendre que je construisais littéralement des circuits sémantiques pour conduire le signal dans le CPU.
 
----
+Aujourd'hui, **backend developer spécialisé Python**, je structure et optimise des systèmes. Mon dernier projet : système de diarization vocale avec PyTorch/FastAPI pour le ML, et serveur d'inférence Rust (Axum/Tokio).
 
-## 🚀 Featured Projects
+De mes expériences précédentes, j'ai gardé la rigueur, la planification méthodique et la capacité à anticiper. Je rêve de contribuer à des projets à grande échelle : infrastructures hospitalières, IA, spatial.
 
-<table>
-<tr>
-<td width="50%">
-
-### 🩺 Medical AI Classification System
-**Production-Ready Medical Imaging AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-
-- 🎯 **94%+ accuracy** on medical image classification
-- 🔬 Advanced CNN architectures for diagnostic imaging
-- 📊 Comprehensive model interpretability and explainability
-- 🏥 Real-world deployment pipeline for healthcare settings
-
-[**View Project →**](https://github.com/FCHEHIDI/MedicalAIClassificationSystem)
-
-</td>
-<td width="50%">
-
-### 🤖 Medical RAG Chatbot
-**Next-Gen Healthcare Information System**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜🔗_LangChain-2C5530?style=flat-square)
-
-- 🧠 **RAG-powered** medical knowledge retrieval
-- 💬 Natural language interface for clinical queries
-- 🔒 Privacy-first local LLM integration
-- 📚 Vector database for medical literature search
-
-[**View Project →**](https://github.com/FCHEHIDI/MedicalRAGChatbot)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🫁 Pancreatic Cancer Detection
-**Life-Saving CT Scan Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM-005A9E?style=flat-square&logo=medical&logoColor=white)
-
-- 🎯 Early detection of pancreatic cancer in CT scans
-- 🔬 Advanced 3D CNN architectures
-- 📈 Comprehensive evaluation metrics and validation
-- ⚡ Optimized for clinical workflow integration
-
-[**View Project →**](https://github.com/FCHEHIDI/PancreaticCancer-CT-Scans-Recognition)
-
-</td>
-<td width="50%">
-
-### ⚡ Load Balancer Analytics
-**Enterprise ML Operations Platform**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-- 📊 **ML-powered** retry prediction and traffic optimization
-- 🔄 Real-time analytics for hyperscale systems  
-- 📈 Power BI dashboards for enterprise monitoring
-- 🏗️ Production-grade observability platform
-
-[**View Project →**](https://github.com/FCHEHIDI/Load-Balancer-Analytics-at-Hyperscale)
-
-</td>
-</tr>
-</table>
+### 🎓 Parcours
+- **2015-2019** : Professeur de Français, Ministère de l'Éducation Nationale
+- **2020-2025** : Directeur d'Hôtel, Hôtel Donjon Vincennes (Paris)
+- **2025-présent** : Backend Developer Python & ML Engineer (Indépendant)
+- **Formation** : Master Recherche en Linguistique (2014) - Paradigmes de programmation & logique des prédicats
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 Projets Phares
 
-<div align="center">
+### 🎙️ [VoiceFlow Intelligence Platform](https://github.com/FCHEHIDI/VoiceFlow-Intelligence-Platform)
+**Système de diarization vocale temps réel**
+- Architecture ML complète avec PyTorch & FastAPI
+- Serveur d'inférence haute performance en Rust (Axum/Tokio)
+- Pipeline MLOps avec conversion PyTorch → ONNX
+- Latence < 100ms pour streaming audio
 
-### 🤖 AI/ML Frameworks
+**Stack:** `Python` `Rust` `PyTorch` `FastAPI` `ONNX` `Axum` `Tokio`
+
+---
+
+### 🔐 [APIs Development with FastAPI](https://github.com/FCHEHIDI/APIs-Development-with-FastAPI)
+**API REST professionnelle production-ready**
+- Authentification JWT & autorisation RBAC
+- SQLAlchemy ORM avec gestion avancée des relations
+- Suite complète de tests automatisés (pytest)
+- Documentation OpenAPI/Swagger
+
+**Stack:** `Python` `FastAPI` `SQLAlchemy` `JWT` `PostgreSQL` `pytest`
+
+---
+
+### 📊 [Load Balancer Analytics at Hyperscale](https://github.com/FCHEHIDI/Load-Balancer-Analytics-at-Hyperscale)
+**Plateforme d'observabilité niveau entreprise**
+- Prédiction ML des tentatives de retry
+- Analytics en temps réel avec traitement haute fréquence
+- Dashboards Power BI pour monitoring
+- Gestion du trafic haute échelle
+
+**Stack:** `Python` `SQL Server` `Machine Learning` `Power BI` `Analytics`
+
+---
+
+### 📦 [LogiTrack Backend](https://github.com/FCHEHIDI/logitrack-backend)
+**API ASP.NET Core pour gestion inventory/commandes**
+- Entity Framework Core avec migrations automatisées
+- Authentification JWT & autorisation par rôles
+- Architecture RESTful avec best practices
+- Capstone project Microsoft Backend Developer
+
+**Stack:** `C#` `ASP.NET Core` `Entity Framework` `JWT` `SQL Server`
+
+---
+
+### 🏥 [Medical RAG Chatbot](https://github.com/FCHEHIDI/MedicalRAGChatbot)
+**Chatbot médical avec Retrieval-Augmented Generation**
+- Intégration LLM local & bases de données vectorielles
+- Architecture optimisée pour inférences médicales
+- Pipeline de preprocessing pour données cliniques
+
+**Stack:** `Python` `LangChain` `Vector Databases` `Transformers` `RAG`
+
+---
+
+### 🧬 [BiostatisticsModeling](https://github.com/FCHEHIDI/BiostatisticsModeling)
+**Sélection de features pour IA médicale**
+- Analyse cancer du sein & maladies cardiaques
+- Tests statistiques : RFE-CV, LASSO, régression
+- Validation croisée & pertinence clinique
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Statistical Analysis`
+
+---
+
+## 🛠️ Stack Technique
+
+### 💻 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🏥 Medical AI Specialization
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM-005A9E?style=for-the-badge&logo=medical&logoColor=white)
-![Medical_Imaging](https://img.shields.io/badge/Medical_Imaging-FF6B6B?style=for-the-badge&logo=health&logoColor=white)
-![Clinical_NLP](https://img.shields.io/badge/Clinical_NLP-4ECDC4?style=for-the-badge&logo=language&logoColor=white)
-
-### 💻 Development Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+**Frameworks & APIs**
+- FastAPI, ASP.NET Core, Axum (Rust), Tokio
+- SQLAlchemy, Entity Framework Core
+- REST API, JWT, OAuth
 
----
+### 🗄️ Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🏆 Professional Certifications
+- Optimisation de requêtes, indexation, migrations
+- PLpgSQL, procédures stockées
+- Architecture relationnelle avancée
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Microsoft-Python_Developer-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Microsoft-Backend_Developer-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Microsoft-PowerBI_Data_Analyst-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-Generative_AI_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-Full_Stack_Developer-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/IBM-AI_Developer-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/DeepLearning.AI-TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/DeepLearning.AI-Generative_AI_for_Software-FF6F00?style=for-the-badge&logo=deeplearning-ai&logoColor=white">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pearson-Tableau_BI_Analyst-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-</td>
-</tr>
-</table>
-</div>
+### 🤖 Machine Learning & IA
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- PyTorch, TensorFlow, Scikit-learn
+- ONNX (conversion & optimisation modèles)
+- LangChain, RAG, Transformers
+- MLOps, pipelines ML production
+
+### 🔧 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- Docker, Docker Compose, Redis
+- Git, GitHub Actions, CI/CD
+- Architecture microservices
+- Elasticsearch (bases)
+
+### 🏗️ Architecture & Design
+- Systèmes distribués
+- Microservices & découplage
+- Design Patterns (SOLID, OOP)
+- Performance & optimisation algorithmique
+- Programmation concurrente (Async/Await)
+
+### 📊 Outils & Méthodologies
+- Power BI (dashboards & analytics)
+- MERISE (MCD/MLD)
+- Jupyter Notebooks
+- Testing : pytest, unittest
+- Agile, planification méthodique
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Compétences Complémentaires
 
-<div align="center">
+### 🔤 Langages (secondaires)
+- **TypeScript** : Dashboard React, interfaces frontend
+- **Java** : Refactoring, architecture OOP
+- **R** : Workflows statistiques médicaux
+- **Shell** : Scripting, automation
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FCHEHIDI&theme=azure-blue&background=0D1117&border=005A9E&stroke=005A9E&ring=005A9E&fire=FF6B6B&currStreakLabel=FF6B6B)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=github_dark&bg_color=0D1117&title_color=005A9E&text_color=FFFFFF&border_color=005A9E)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=005A9E&text_color=FFFFFF&border_color=005A9E&icon_color=FF6B6B)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+### 🧪 Projets de Pratique
+- **DevOps Docker Debugger** : 62 bugs corrigés, 378+ tests
+- **Algorithmic Design** : Architecture OOP, SOLID, concurrence
+- **ModelisationSQLite3** : MERISE complet avec triggers & vues
+- **Refactoring multi-langages** : Python, Java, TypeScript
 
 ---
 
-## 🎯 Current Focus & Interests
+## 📈 GitHub Stats
+
+![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FCHEHIDI&theme=radical)
+
+---
+
+## 🏆 Certifications
+
+| Certification | Organisme | Année |
+|--------------|-----------|-------|
+| **AI Workflow** | IBM | 2024 |
+| **FullStack Developer Capstone** | IBM | 2024 |
+| **Biostatistics & Medical Modeling** | Formation continue | 2024 |
+
+---
+
+## 🎯 Objectifs & Motivations
 
 ```python
 class FaresChehidi:
     def __init__(self):
-        self.current_role = "Machine Learning Engineer & Medical AI Specialist"
-        self.education = ["Master's Linguistics, University Paris IV La Sorbonne (2014)"]
-        self.experience = ["French Professor, Ministry of Education (2015-2019)", "Administrative Director, Hôtel Donjon Vincennes (2020-2025)"]
+        self.role = "Backend Developer Python & ML Engineer"
+        self.location = "Paris, France"
+        self.education = "Master Linguistique (2014) - Logique des prédicats"
         
-        self.specializations = {
-            "medical_ai": ["Medical Imaging", "DICOM Processing", "Clinical NLP", "Diagnostic AI"],
-            "ml_engineering": ["Production ML", "MLOps", "Model Deployment", "Performance Optimization"],
-            "research_areas": ["Computer Vision", "NLP", "Deep Learning", "Healthcare Analytics"]
+        self.expertise = {
+            "backend": ["FastAPI", "ASP.NET Core", "Rust Axum", "REST API", "Microservices"],
+            "databases": ["PostgreSQL", "SQL Server", "SQLite", "Optimization"],
+            "ml_engineering": ["PyTorch", "TensorFlow", "MLOps", "ONNX", "RAG"],
+            "devops": ["Docker", "CI/CD", "Redis", "Architecture distribuée"]
         }
         
         self.current_projects = [
-            "🫁 Advanced Cancer Detection Systems",
-            "🤖 Medical RAG Chatbot Development", 
-            "⚡ Enterprise ML Operations Platform",
-            "📊 Healthcare Data Analytics Pipeline"
+            "🎙️ VoiceFlow: Diarization vocale temps réel (PyTorch/Rust)",
+            "🔐 APIs FastAPI avec JWT & SQLAlchemy",
+            "📊 Load Balancer Analytics avec ML",
+            "🏥 Medical RAG Chatbot avec LangChain"
         ]
         
-        self.goals_2025 = [
-            "Deploy production medical AI systems",
-            "Contribute to open-source healthcare AI",
-            "Publish research on medical ML interpretability",
-            "Mentor next-gen AI healthcare engineers"
+        self.dream_sectors = [
+            "Infrastructures hospitalières critiques",
+            "Intelligence Artificielle à impact social",
+            "Systèmes spatiaux & aéronautique",
+            "Énergie nucléaire & environnement"
+        ]
+        
+        self.values = [
+            "Code propre, élégant, efficace",
+            "Architecture de systèmes distribués",
+            "Optimisation & scalabilité",
+            "Rigueur & méthodologie",
+            "Apprentissage continu"
         ]
     
-    def get_contact_info(self):
+    def get_contact(self):
         return {
             "email": "fareschehidi7@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/fares-chehidi-87a578309/",
-            "phone": "+33 787864041",
-            "location": "Paris, France",
-            "availability": "Open to collaborations in Medical AI and ML Engineering"
+            "linkedin": "https://www.linkedin.com/in/fares-chehidi",
+            "github": "https://github.com/FCHEHIDI",
+            "portfolio": "https://fchehidi.github.io",
+            "phone": "+33 7 87 86 40 41"
         }
 ```
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Collaborations & Contact
 
-<div align="center">
+Je suis ouvert aux opportunités dans :
 
-**I'm passionate about leveraging AI to transform healthcare and save lives.**
+- 🏗️ **Backend Development** : Architectures distribuées, APIs haute performance
+- 🤖 **Machine Learning Engineering** : MLOps, systèmes de production, optimisation
+- 🏥 **AI Healthcare** : Applications médicales, diagnostic, données cliniques
+- 📊 **Data Engineering** : Pipelines de données, analytics, observabilité
+- 🚀 **Projets à grande échelle** : Infrastructure critique, systèmes complexes
 
-Whether you're interested in:
-- 🏥 **Medical AI research** and applications
-- 🚀 **Production ML systems** development  
-- 🤖 **Healthcare NLP** and chatbot solutions
-- 📊 **Clinical data science** and analytics
-- 🎓 **Academic-industry** collaboration
+### 📬 Me contacter
 
-### I'd love to connect and explore how we can work together!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-chehidi-87a578309/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareschehidi7@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FCHEHIDI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares_Chehidi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fares-chehidi)
+[![Email](https://img.shields.io/badge/Email-fareschehidi7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareschehidi7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Matrix_Style-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://fchehidi.github.io)
 
 ---
 
-*"At the intersection of linguistics and AI, I'm building the future of intelligent healthcare."*
+<div align="center">
+
+*"Entre linguistique et code, je construis des systèmes qui font progresser la société."*
+
+**Disponible pour des projets Backend & ML de grande envergure** 🚀
 
 </div>
-
-<!--
-**FCHEHIDI/FCHEHIDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
