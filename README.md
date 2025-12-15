@@ -171,14 +171,11 @@ De mes expériences précédentes, j'ai gardé la rigueur, la planification mét
 
 <div align="center">
 
-![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FCHEHIDI&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
 
 </div>
-
 ---
 
 ## 🏆 Certifications
