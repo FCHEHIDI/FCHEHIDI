@@ -69,7 +69,7 @@ goals = [
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41&icon_color=39ff14)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41)
 
