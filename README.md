@@ -33,14 +33,6 @@ Rigueur pédagogique + gestion d'entreprise + passion pour l'optimisation systè
 
 ---
 
-### ◢ Stack
-
-**Expert**: `Python` `FastAPI` `PyTorch` `PostgreSQL`  
-**Advanced**: `Rust (Axum/Tokio)` `C# (ASP.NET Core)` `SQL` `Docker`  
-**Intermediate**: `TypeScript` `Java` `R`
-
----
-
 ### ◢ Featured Projects
 
 **⎔ VoiceFlow** → Diarization vocale ML (PyTorch/FastAPI + Rust inference server)  
