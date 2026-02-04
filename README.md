@@ -69,11 +69,13 @@ goals = [
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FCHEHIDI&theme=github_dark" alt="Profile Details"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FCHEHIDI&theme=chartreuse-dark&hide_border=true&background=0a0e0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&currStreakNum=00ff41&sideLabels=00ff41&dates=00ff41)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FCHEHIDI&theme=github_dark" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FCHEHIDI&theme=github_dark" alt="Most Commit Language"/>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FCHEHIDI&theme=github_dark" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FCHEHIDI&theme=github_dark" alt="Productive Time"/>
 
 </div>
 
