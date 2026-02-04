@@ -1,4 +1,4 @@
-# <div align="center">⎔ FARES CHEHIDI ⎔</div>
+# <div align="center">��� FARES CHEHIDI ⎔</div>
 
 <div align="center">
 <code>Backend Developer Python ◈ ML Engineer</code>
