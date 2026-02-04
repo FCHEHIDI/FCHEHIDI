@@ -1,4 +1,4 @@
-# <div align="center">��� FARES CHEHIDI ⎔</div>
+# <div align="center">⎔ FARES CHEHIDI ⎔</div>
 
 <div align="center">
 <code>Backend Developer Python ◈ ML Engineer</code>
@@ -69,9 +69,11 @@ goals = [
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FCHEHIDI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41)
+![GitHub Streak](https://streak-stats.demolab.com?user=FCHEHIDI&theme=chartreuse-dark&hide_border=true&background=0a0e0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&currStreakNum=00ff41&sideLabels=00ff41&dates=00ff41)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FCHEHIDI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00ff41)
 
 </div>
 
