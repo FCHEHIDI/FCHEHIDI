@@ -52,24 +52,6 @@ goals = [
     "▶ Code élégant et optimisé",
     "▶ Systèmes distribués complexes",
     "▶ Impact technologique et social"
-]
-```
-
----
-
-### ◢ Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FCHEHIDI&theme=github_dark" alt="Profile Details"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FCHEHIDI&theme=github_dark" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FCHEHIDI&theme=github_dark" alt="Most Commit Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FCHEHIDI&theme=github_dark" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FCHEHIDI&theme=github_dark" alt="Productive Time"/>
-
-</div>
 
 ---
 
