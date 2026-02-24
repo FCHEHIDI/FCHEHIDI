@@ -1,7 +1,7 @@
 # <div align="center">⎔ FARES CHEHIDI ⎔</div>
 
 <div align="center">
-<code>Backend Developer Python ◈ ML Engineer</code>
+<code>Backend Developer Rust & Python ◈ ML Engineer</code>
 </div>
 
 <div align="center">
@@ -35,6 +35,8 @@ Rigueur pédagogique + gestion d'entreprise + passion pour l'optimisation systè
 
 ### ◢ Featured Projects
 
+**⎔ Orion Unified CDR Engine** → High‑performance Rust engine for ingesting, normalizing, and enriching millions of CDR/UDR records per hour.
+**⎔ Net Scope** → Créer un système capable d’observer, mesurer et auditer les flux réseau d’un pipeline 
 **⎔ VoiceFlow** → Diarization vocale ML (PyTorch/FastAPI + Rust inference server)  
 **⎔ Load Balancer Analytics** → ML retry prediction + Power BI dashboards  
 **⎔ FastAPI REST APIs** → Production backend avec auth JWT + SQLAlchemy  
