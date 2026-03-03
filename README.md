@@ -1,29 +1,9 @@
 <div align="center">
-  <img src="./Jecodedoncjesuis.png" width="320" />
+  <img src="./Jecodedoncjesuis.png" width="800" />
 </div>
 
-<br>
-
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   FARES CHEHIDI                                         │
-│   ─────────────────────────────────────────────────     │
-│   Backend Systems · Embedded Rust · ML Engineering     │
-│                                                         │
-│   Prof de français. Directeur d'hôtel. Un jour         │
-│   les systèmes m'ont capturé — et je n'ai pas résisté. │
-│                                                         │
-│   Je construis des moteurs : CDR engines à l'échelle   │
-│   de millions d'événements, drivers bare metal pour    │
-│   STM32, pipelines ML, serveurs Axum. Le fil rouge :   │
-│   la rigueur logique. Peu importe le niveau du stack.  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
+  <img src="./presentationfronton.png" width="600" />
 </div>
 
 <br>
