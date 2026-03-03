@@ -1,64 +1,39 @@
-# <div align="center">⎔ FARES CHEHIDI ⎔</div>
-
 <div align="center">
-<code>Backend Developer Rust & Python ◈ ML Engineer</code>
+  <img src="./Jecodedoncjesuis.png" width="320" />
 </div>
 
+<br>
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/✉_fareschehidi7@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=0a0e0a)](mailto:fareschehidi7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-00ff41?style=flat-square&logo=linkedin&logoColor=0a0e0a)](https://www.linkedin.com/in/fares-chehidi)
-[![Portfolio](https://img.shields.io/badge/⚡_fchehidi.github.io-00ff41?style=flat-square&logo=github&logoColor=0a0e0a)](https://fchehidi.github.io)
-
-</div>
-
----
-
-### ◢ About
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Fares Chehidi"
-        self.background = ["Linguistique → Logique des prédicats", 
-                          "Prof → Hôtel → Digitalisation → Code"]
-        self.current = "Backend Dev + ML Engineer"
-        self.declic = "circuits sémantiques → signaux CPU"
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   FARES CHEHIDI                                         │
+│   ─────────────────────────────────────────────────     │
+│   Backend Systems · Embedded Rust · ML Engineering     │
+│                                                         │
+│   Prof de français. Directeur d'hôtel. Un jour         │
+│   les systèmes m'ont capturé — et je n'ai pas résisté. │
+│                                                         │
+│   Je construis des moteurs : CDR engines à l'échelle   │
+│   de millions d'événements, drivers bare metal pour    │
+│   STM32, pipelines ML, serveurs Axum. Le fil rouge :   │
+│   la rigueur logique. Peu importe le niveau du stack.  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-**▣ De la logique des prédicats aux circuits sémantiques**
+</div>
 
-Prof de français → Directeur d'hôtel (digitalisation PCI DSS) → Déclic tech → Backend Developer Python.  
-Rigueur pédagogique + gestion d'entreprise + passion pour l'optimisation système.
-
----
-
-### ◢ Featured Projects
-
-**⎔ Orion Unified CDR Engine** → High‑performance Rust engine for ingesting, normalizing, and enriching millions of CDR/UDR records per hour.
-
-**⎔ Net Scope** → Créer un système capable d’observer, mesurer et auditer les flux réseau d’un pipeline
-
-**⎔ VoiceFlow** → Diarization vocale ML (PyTorch/FastAPI + Rust inference server)  
-**⎔ Load Balancer Analytics** → ML retry prediction + Power BI dashboards  
-**⎔ FastAPI REST APIs** → Production backend avec auth JWT + SQLAlchemy  
-**⎔ LogiTrack** → Système de suivi logistique (ASP.NET Core + EF + SQL Server)  
-**⎔ Medical RAG** → Chatbot RAG médical (LangChain + vector DB)  
-**⎔ Biostatistics Modeling** → Modélisation statistique R pour recherche clinique
-
----
-
-### ◢ Goals 2025
-
-```python
-goals = [
-    "▶ Infrastructures à grande échelle (hospitalier, spatial, IA)",
-    "▶ Code élégant et optimisé",
-    "▶ Systèmes distribués complexes",
-    "▶ Impact technologique et social"
-
----
+<br>
 
 <div align="center">
-<sub>◈ De l'enseignement au code : construire des systèmes qui ont du sens ◈</sub>
+
+**Rust** `no_std · Axum · RTIC · bare metal`&ensp;·&ensp;**Python** `FastAPI · ML`&ensp;·&ensp;**MCP**&ensp;·&ensp;**Docker · Kafka**
+
+<br>
+
+[fchehidi.github.io](https://fchehidi.github.io)&ensp;·&ensp;[LinkedIn](https://www.linkedin.com/in/fares-chehidi)&ensp;·&ensp;[fareschehidi7@gmail.com](mailto:fareschehidi7@gmail.com)
+
 </div>
