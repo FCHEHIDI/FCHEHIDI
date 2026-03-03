@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./Jecodedoncjesuis.png" width="800" />
+  <img src="./Jecodedoncjesuis.png" width="750" />
 </div>
 
 <div align="center">
-  <img src="./presentationfronton.png" width="800" />
+  <img src="./presentationfronton.png" width="750" />
 </div>
 
 <br>
