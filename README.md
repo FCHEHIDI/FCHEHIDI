@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./Jecodedoncjesuis.png" width="750" />
-</div>
-
-<div align="center">
   <img src="./descriptionportrait.png" width="750" />
 </div>
 
