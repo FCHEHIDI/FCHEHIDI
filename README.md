@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./descriptionportrait.png" width="750" />
+  <img src="./foggydatacenter.png" width="750" />
 </div>
 
 <br>
