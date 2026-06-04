@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Datacenter réel avec.png" width="900" />
+  <img src="./Copilot_20260605_005806.png" width="900" />
 </div>
 
 <br>
