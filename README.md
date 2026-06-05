@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Copilot_20260605_005806.png" width="900" />
+  <img src="./graphelumineux.png" width="900" />
 </div>
 
 <br>
