@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./graphelumineux.png" width="900" />
+  <img src="./sumi-e_dynamo_dragon.png" width="900" />
 </div>
 
 <br>
