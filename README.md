@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./evolute.jpg" width="1100" />
+  <img src="./graphelumineux.png" width="1100" />
 </div>
 
 <br>
