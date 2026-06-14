@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./sumi-e_dynamo_dragon.png" width="900" />
+  <img src="./evolute.jpg" width="1100" />
 </div>
 
 <br>
