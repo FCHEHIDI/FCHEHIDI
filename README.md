@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./jevoluestill.png" width="1100" />
+  <img src="./jevolueencoreplus.png" width="1100" />
 </div>
 
 <br>
